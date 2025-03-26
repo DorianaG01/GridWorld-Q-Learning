@@ -71,16 +71,6 @@ To run the project, clone the repository and follow the instructions in the prov
 
 ---
 
-## Future Work
-
-Potential extensions of this project include:
-
-- Adding more complex obstacles or dynamic elements to the environment.
-- Implementing additional RL algorithms, such as SARSA or Deep Q-Learning.
-- Scaling the environment to larger grids or continuous spaces.
-- Introducing multi-agent scenarios for collaborative or competitive tasks.
-
----
 
 ## Acknowledgments
 
