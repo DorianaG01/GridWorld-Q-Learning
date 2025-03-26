@@ -73,12 +73,12 @@ To run the project, clone the repository and follow the instructions in the prov
 ## Installation
 
 To run this project, you need to install the required libraries. Use the following command to install them:
-
 ```bash
 pip install numpy matplotlib pillow
-
+```
 ---
 ## Acknowledgments
 
 This project is inspired by reinforcement learning concepts and aims to provide an interactive and visual way to understand how agents learn to make decisions in dynamic environments.
+
 ---
